@@ -1,0 +1,5 @@
+test:
+  image: node:16
+  script:
+    - yarn
+    - yarn start 0x04Ad3f13050cc766169433062BcDbB367B616986

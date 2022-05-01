@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-connex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mario Micklisch <mm@hpm.agency>",
+  "license": "MIT",
+  "dependencies": {
+    "@vechain/connex-driver": "^2.0.8",
+    "@vechain/connex-framework": "^2.0.8",
+    "@vechain/ethers": "^4.0.27-5",
+    "bent": "^7.3.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
